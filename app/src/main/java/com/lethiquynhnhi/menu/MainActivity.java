@@ -27,7 +27,7 @@ public class MainActivity extends AppCompatActivity {
 
         MonAnAdapter anAdapter = new MonAnAdapter(
                 MainActivity.this,
-                R.layout.listmenu,
+                R.layout.list,
                 mangMonAn
         );
 
